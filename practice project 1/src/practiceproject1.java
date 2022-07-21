@@ -2,7 +2,7 @@ public class practiceproject1 {
 
 	public static void main(String[] args) {
 		
-		//implicit conversion
+		
 		System.out.println("Implicit Type Casting");
 		char a='A';
 		System.out.println("Value of a: "+a);
@@ -23,7 +23,7 @@ public class practiceproject1 {
 		System.out.println("\n");
 		
 		System.out.println("Explicit Type Casting");
-		//explicit conversion
+		
 		
 		double x=47.5;
 		int y=(int)x;
