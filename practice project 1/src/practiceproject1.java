@@ -25,7 +25,7 @@ public class practiceproject1 {
 		System.out.println("Explicit Type Casting");
 		//explicit conversion
 		
-		double x=45.5;
+		double x=47.5;
 		int y=(int)x;
 		System.out.println("Value of x: "+x);
 		System.out.println("Value of y: "+y);
